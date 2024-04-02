@@ -162,6 +162,7 @@ flex-direction: column;
     border-radius: 1rem;
     /* padding: 1rem; */
     font-family: "Roboto",sans-serif;
+    margin-bottom: 4rem;
 }
 .top_layer{
     width: 100%;

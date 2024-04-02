@@ -244,6 +244,26 @@ footer p{
         height: auto;
         margin-top: 3rem;
     }
+    .temp_form{
+        margin: 0;
+        margin-top: 10rem;
+        margin-bottom: 6rem;
+        width:100%;
+
+    }
+    .tempInformation{
+        width:auto;
+    }
+
+    .temp_form input[type="text"]{
+        font-size: 0.7rem;
+    }
+
+    .temp_form input[type="submit"]{
+        width: 7rem;
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
 }
 
 
